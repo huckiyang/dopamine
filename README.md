@@ -196,6 +196,7 @@ An easy, alternative way to install Dopamine is as a Python library:
 ```
 # Alternatively brew install, see Mac OS X instructions above.
 sudo apt-get update && sudo apt-get install cmake
+pip install PyQt5==5.9.2 
 pip install dopamine-rl
 pip install atari-py
 ```
